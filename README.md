@@ -1,1 +1,3 @@
-# SmartBASIC syntax highlight for vim/neovim
+# SmartBASIC language syntax file for vim/neovim
+
+(under construction...)
